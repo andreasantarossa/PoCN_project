@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+1980-05-01,3,3,0.5,1,0,0,0,0,0.504663578290069,0.33333333333333326,China PR,0.504663578290069,1.669145810491419,"[('China PR', 0.504663578290069), ('Japan', 0.3023484078610779), ('Hong Kong', 0.1929880138488529)]"

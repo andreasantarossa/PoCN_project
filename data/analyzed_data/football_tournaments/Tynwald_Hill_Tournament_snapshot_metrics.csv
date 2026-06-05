@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2013-05-01,5,5,0.25,2,0,0,0,0,0.3671658881465876,0.20000000000000004,Occitania,0.3671658881465876,1.3253930393485798,"[('Occitania', 0.3671658881465876), ('Tamil Eelam', 0.2770241560398165), ('Raetia', 0.17097385810397792), ('Sealand', 0.09241804885480909), ('Alderney', 0.09241804885480909)]"

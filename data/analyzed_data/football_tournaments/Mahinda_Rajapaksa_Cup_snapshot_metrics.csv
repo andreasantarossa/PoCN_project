@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2021-09-01,4,3,0.25,2,0,0,0,0,0.3701456615713026,0.24999999999999997,Seychelles,0.3701456615713026,1.2387287729632226,"[('Seychelles', 0.3701456615713026), ('Sri Lanka', 0.2988109016680539), ('Bangladesh', 0.21488785520742984), ('Maldives', 0.11615558155321364)]"

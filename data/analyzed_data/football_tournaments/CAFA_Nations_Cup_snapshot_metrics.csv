@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2023-05-01,7,8,0.19047619047619047,3,0,0,0,0,0.36380051280202647,0.14285714285714282,Iran,0.36380051280202647,1.4412872976582267,"[('Iran', 0.36380051280202647), ('Uzbekistan', 0.25241359817235737), ('Oman', 0.12136847825709117), ('Afghanistan', 0.06560435269213116), ('Kyrgyzstan', 0.06560435269213116), ('Turkmenistan', 0.06560435269213116), ('Tajikistan', 0.06560435269213116)]"

@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+1991-05-01,4,3,0.25,2,0,0,0,0,0.3648171434859837,0.25,Russia,0.3648171434859837,1.5517520779729943,"[('Russia', 0.3648171434859837), ('Italy', 0.23510014819025282), ('Sweden', 0.23510014819025282), ('Denmark', 0.16498256013351076)]"

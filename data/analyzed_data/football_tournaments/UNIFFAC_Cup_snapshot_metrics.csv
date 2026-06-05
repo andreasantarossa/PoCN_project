@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+1999-09-01,6,14,0.4666666666666667,1,0,0,0,0,0.2717976822599067,0.16666666666666663,Gabon,0.2717976822599067,1.339712982046137,"[('Gabon', 0.2717976822599067), ('Central African Republic', 0.20287754608811165), ('Chad', 0.1646977153282308), ('Equatorial Guinea', 0.14972810673142325), ('Congo', 0.11557735209215025), ('São Tomé and Príncipe', 0.09532159750017713)]"

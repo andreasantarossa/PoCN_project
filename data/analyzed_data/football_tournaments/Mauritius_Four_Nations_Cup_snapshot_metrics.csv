@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2023-05-01,4,5,0.4166666666666667,1,0,0,0,0,0.4148035383876386,0.25,Djibouti,0.4148035383876386,1.3905371289193265,"[('Djibouti', 0.4148035383876386), ('Mauritius', 0.2983045398507327), ('Kenya', 0.16124585231998345), ('Pakistan', 0.12564606944164525)]"

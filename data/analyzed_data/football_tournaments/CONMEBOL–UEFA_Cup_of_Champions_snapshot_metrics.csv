@@ -1,0 +1,3 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+1985-05-01,2,1,0.5,1,0,0,0,0,0.649122638064138,0.4999999999999999,France,0.649122638064138,1.849998627676622,"[('France', 0.649122638064138), ('Uruguay', 0.3508773619358619)]"
+2022-05-01,2,1,0.5,1,2,2,1,1,0.649122638064138,0.4999999999999999,Argentina,0.649122638064138,1.849998627676622,"[('Argentina', 0.649122638064138), ('Italy', 0.3508773619358619)]"

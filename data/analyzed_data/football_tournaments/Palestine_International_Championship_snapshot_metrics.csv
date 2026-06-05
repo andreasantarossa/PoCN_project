@@ -1,0 +1,3 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2012-05-01,4,3,0.25,2,0,0,0,0,0.3648171434859837,0.25,Palestine,0.3648171434859837,1.5517520779729943,"[('Palestine', 0.3648171434859837), ('Indonesia', 0.23510014819025282), ('Kurdistan', 0.23510014819025282), ('Mauritania', 0.16498256013351076)]"
+2014-05-01,4,6,0.5,1,3,3,6,3,0.4513761585479028,0.25,Palestine,0.4513761585479028,1.849997376429873,"[('Palestine', 0.4513761585479028), ('Jordan', 0.24398745873843833), ('Pakistan', 0.17121913703515862), ('Sri Lanka', 0.13341724567850016)]"

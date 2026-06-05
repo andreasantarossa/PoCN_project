@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2022-05-01,3,3,0.5,1,0,0,0,0,0.5208692975273159,0.3333333333333333,Maule Sur,0.5208692975273159,1.849999099124769,"[('Maule Sur', 0.5208692975273159), ('Mapuche', 0.28155110874039785), ('Aymara', 0.19757959373228617)]"

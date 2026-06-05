@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2026-01-01,5,3,0.15,2,0,0,0,0,0.3576163319986344,0.2,Benin,0.3576163319986344,1.4594605015022188,"[('Benin', 0.3576163319986344), ('Togo', 0.24503323771389554), ('Guinea', 0.1324501434291567), ('Liberia', 0.1324501434291567), ('Niger', 0.1324501434291567)]"

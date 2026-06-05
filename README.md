@@ -5,7 +5,7 @@ This is the final project for the *Physics of Complex Networks* course, part of 
 The project consists of two tasks, covering both theoretical and practical aspects of complex networks:
 
 - **Dynamics on networks** — Simulation of epidemic spreading on static networks using SI, SIS, SIR, and SEIR models, in both homogeneous and heterogeneous mean-field approximations.  
-- **Temporal winner-loser networks in WWE, tennis, and football ** — Professional wrestling, tennis and football all generate sequences of competitive encounters, but the structure of these encounters is very different. Tennis is mostly one-against-one, football is team-against-team, while WWE/WWF-style wrestling includes singles matches, tag-team matches, and multi-person matches under multiple promotions and historical brands. This project aims to reconstruct temporal winner-loser networks from these three domains and produce comparable network datasets for downstream analysis.
+- **Temporal winner-loser networks in WWE, tennis, and football** — Professional wrestling, tennis and football all generate sequences of competitive encounters, but the structure of these encounters is very different. Tennis is mostly one-against-one, football is team-against-team, while WWE/WWF-style wrestling includes singles matches, tag-team matches, and multi-person matches under multiple promotions and historical brands. This project aims to reconstruct temporal winner-loser networks from these three domains and produce comparable network datasets for downstream analysis.
 
 
 ## Repository structure

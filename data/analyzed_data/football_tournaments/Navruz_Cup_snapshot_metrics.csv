@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2022-01-01,4,3,0.25,2,0,0,0,0,0.3991232045549693,0.25,Uzbekistan,0.3991232045549693,1.5964928182198772,"[('Uzbekistan', 0.3991232045549693), ('Tajikistan', 0.25), ('Kyrgyzstan', 0.17543839772251535), ('Uganda', 0.17543839772251535)]"

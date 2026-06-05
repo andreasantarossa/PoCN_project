@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2025-01-01,4,6,0.5,1,0,0,0,0,0.4682423653923672,0.25000000000000006,Zanzibar,0.4682423653923672,1.0495586493110494,"[('Zanzibar', 0.4682423653923672), ('Burkina Faso', 0.44613263460763297), ('Kenya', 0.04812500000000001), ('Tanzania', 0.037500000000000006)]"

@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2016-09-01,7,9,0.21428571428571427,3,0,0,0,0,0.3001626340479778,0.14285714285714285,Nepal,0.3001626340479778,1.2965720599936021,"[('Nepal', 0.3001626340479778), ('Macau', 0.23150478350540654), ('Laos', 0.16303145797147925), ('Brunei', 0.10707228471554207), ('Mongolia', 0.08247468183813567), ('Timor-Leste', 0.057877078960729286), ('Sri Lanka', 0.057877078960729286)]"

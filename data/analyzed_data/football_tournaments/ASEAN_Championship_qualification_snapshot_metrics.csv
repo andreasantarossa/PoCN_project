@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2024-09-01,2,1,0.5,1,0,0,0,0,0.649122638064138,0.4999999999999999,Timor-Leste,0.649122638064138,1.849998627676622,"[('Timor-Leste', 0.649122638064138), ('Brunei', 0.3508773619358619)]"

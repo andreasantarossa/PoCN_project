@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2023-05-01,7,5,0.11904761904761904,3,0,0,0,0,0.24497623770183147,0.14285714285714282,Székely Land,0.24497623770183147,1.4250017062841438,"[('Székely Land', 0.24497623770183147), ('Kernow', 0.17191294341719437), ('Raetia', 0.17191294341719437), ('Chameria', 0.13241952938790896), ('Two Sicilies', 0.09292611535862356), ('Sápmi', 0.09292611535862356), ('Ticino', 0.09292611535862356)]"

@@ -1,0 +1,3 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2011-01-01,4,2,0.16666666666666666,2,0,0,0,0,0.32456160227748454,0.24999999999999994,Republic of Ireland,0.32456160227748454,1.0,"[('Republic of Ireland', 0.32456160227748454), ('Scotland', 0.32456160227748454), ('Wales', 0.17543839772251532), ('Northern Ireland', 0.17543839772251532)]"
+2011-05-01,4,4,0.3333333333333333,1,0,0,4,2,0.4161492488779942,0.25,Republic of Ireland,0.4161492488779942,1.4944311768524725,"[('Republic of Ireland', 0.4161492488779942), ('Scotland', 0.2784666536163115), ('Wales', 0.17945268439422316), ('Northern Ireland', 0.12593141311147116)]"

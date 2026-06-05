@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2025-05-01,3,2,0.3333333333333333,1,0,0,0,0,0.37012974744707666,0.3333333333333332,Turks and Caicos Islands,0.37012974744707666,1.0,"[('Turks and Caicos Islands', 0.37012974744707666), ('United States Virgin Islands', 0.37012974744707666), ('Marshall Islands', 0.25974050510584634)]"

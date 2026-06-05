@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2013-09-01,4,3,0.25,2,0,0,0,0,0.3648171434859837,0.25,United Arab Emirates,0.3648171434859837,1.5517520779729943,"[('United Arab Emirates', 0.3648171434859837), ('New Zealand', 0.23510014819025282), ('Trinidad and Tobago', 0.23510014819025282), ('Saudi Arabia', 0.16498256013351076)]"

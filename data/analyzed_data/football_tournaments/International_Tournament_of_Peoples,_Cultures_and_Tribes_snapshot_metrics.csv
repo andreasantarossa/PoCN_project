@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2013-05-01,5,7,0.35,2,0,0,0,0,0.39072964222418133,0.2000000000000001,Kurdistan,0.39072964222418133,1.7710505626568076,"[('Kurdistan', 0.39072964222418133), ('Quebec', 0.2206202637365902), ('Provence', 0.1548213926370504), ('Tibet', 0.13740472189497183), ('Western Sahara', 0.09642397950720669)]"

@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2015-05-01,4,3,0.25,2,0,0,0,0,0.47060860306562025,0.25000000000000006,Ellan Vannin,0.47060860306562025,1.850003815498855,"[('Ellan Vannin', 0.47060860306562025), ('Felvidék', 0.2543825040375499), ('Panjab', 0.137504446448415), ('Alderney', 0.137504446448415)]"

@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2017-09-01,6,12,0.4,1,0,0,0,0,0.31336001454359974,0.16666666666666663,Vanuatu,0.31336001454359974,1.703770555441255,"[('Vanuatu', 0.31336001454359974), ('Fiji', 0.18392148728174462), ('Solomon Islands', 0.1522804295983842), ('Tuvalu', 0.14331547631326627), ('New Caledonia', 0.11167441862990582), ('Tonga', 0.09544817363309915)]"

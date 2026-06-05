@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2023-01-01,6,4,0.13333333333333333,2,0,0,0,0,0.26673282688236644,0.16666666666666663,India,0.26673282688236644,1.0495653229363344,"[('India', 0.26673282688236644), ('Nepal', 0.25413647064494926), ('Laos', 0.1827613118742548), ('Kyrgyzstan', 0.09878979686614309), ('Myanmar', 0.09878979686614309), ('Bhutan', 0.09878979686614309)]"

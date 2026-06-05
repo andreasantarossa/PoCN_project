@@ -1,0 +1,2 @@
+snapshot,nodes,edges,density,communities,new_nodes,removed_nodes,new_edges,removed_edges,pagerank_max,pagerank_mean,dominant_node,dominant_score,dominance_ratio,top_pagerank
+2011-01-01,7,10,0.23809523809523808,2,0,0,0,0,0.32437187463099726,0.1428571428571428,Egypt,0.32437187463099726,1.4968750179849175,"[('Egypt', 0.32437187463099726), ('Uganda', 0.21669937084504515), ('DR Congo', 0.15298331947199603), ('Kenya', 0.09764877457352027), ('Sudan', 0.08666369480375541), ('Burundi', 0.0608164828373428), ('Tanzania', 0.0608164828373428)]"
